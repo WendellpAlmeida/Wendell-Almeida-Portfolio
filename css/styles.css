@@ -414,7 +414,7 @@ text-transform: uppercase;
   .projects__content .cards .card .um {
     text-align: center;
     padding: 0 1rem;
-    background-image: url("/img/sushi-locat.jpg");
+    background-image: url("./img/sushi-locat.jpg");
     border-radius: 1rem;
     transition: 0.5s;
   }
@@ -436,7 +436,7 @@ text-transform: uppercase;
   .projects__content .cards .card .dois {
     text-align: center;
     padding: 0 1rem;
-    background-image: url("/img/port-projeto.jpg");
+    background-image: url("./img/port-projeto.jpg");
     border-radius: 1rem;
     transition: 0.5s;
   }
